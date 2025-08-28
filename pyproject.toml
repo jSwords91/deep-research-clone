@@ -1,0 +1,10 @@
+[project]
+name = "research-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai-agents>=0.2.8",
+    "rich>=14.1.0",
+]
